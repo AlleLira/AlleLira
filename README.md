@@ -1,6 +1,6 @@
 # Alessandra Lira
 
-###Desenvolvedor de Software Back-end | Node.js | JavaScript | SQL | BI | Java Iniciante | HTML | CSS | Bootstrap
+### Desenvolvedor de Software Back-end | Node.js | JavaScript | SQL | BI | Java Iniciante | HTML | CSS | Bootstrap
 <hr>
 <div>
 <a href="https://instagram.com/alle.lira" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
