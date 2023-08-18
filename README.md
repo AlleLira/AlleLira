@@ -11,6 +11,7 @@
 ## Hello Devs 👋
 
 ###Tenho 31 anos, sou estudante de Ciências da Computação e inha carreira na área de tecnologia está no início mas tenho na bagagem muitas experiências ótimas da área da área em que venho.
+
 Amo ler📖, ouvir musica🎶 e pintar 🎨(modestia a parte tenho uma certa habilidade hahahahaha).
 
 <img loading="lazy" src="/img/pingu-art.gif" width="250" height="250">
