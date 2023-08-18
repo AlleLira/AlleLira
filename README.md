@@ -25,7 +25,7 @@ Amo ler📖, ouvir musica🎶 e pintar 🎨(modestia a parte tenho uma certa hab
 
 
 <div>
-<a href="https://github.com/AlleLira">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?AlleLira&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?AlleLira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/allelira">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?allelira&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?allelira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
