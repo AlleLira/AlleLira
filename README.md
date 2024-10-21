@@ -12,7 +12,7 @@ Desenvolvedor de Software Back-end | Node.js | JavaScript | SQL | BI | Java Inic
 
 ## Hello Devs 👋
 
-Tenho 31 anos, sou estudante de Ciências da Computação e minha carreira na área de tecnologia está no início mas tenho na bagagem muitas experiências ótimas da área em que trabalhava.
+Tenho 32 anos, sou estudante de Ciências da Computação e minha carreira na área de tecnologia está no início mas tenho na bagagem muitas experiências ótimas da área em que trabalhava.
 
 Amo ler📖, ouvir musica🎶 e pintar 🎨(modestia a parte, tenho bastante habilidade hahahahaha).
 
