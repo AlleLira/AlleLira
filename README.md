@@ -1,3 +1,4 @@
+<hr>
 Business Intelligence | Data Analytics | Python | SQL | Power BI | Excel | Auditoria e Controladoria
 <hr>
 <div>
