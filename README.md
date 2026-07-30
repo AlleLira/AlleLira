@@ -82,7 +82,4 @@ Sistema para leitura de notas fiscais em XML, armazenamento de valores históric
 - SQL avançado
 - Python para análise e automação de dados
 
-## Contato
 
-- LinkedIn: coloque aqui o endereço do seu LinkedIn
-- GitHub: https://github.com/AlleLira
