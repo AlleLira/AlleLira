@@ -13,7 +13,7 @@ Business Intelligence | Data Analytics | Python | SQL | Power BI | Excel | Audit
 
 Sou profissional de **Auditoria, Business Intelligence e Análise de Dados**, com experiência na criação de indicadores, relatórios gerenciais, automações e análises voltadas para melhoria de processos e redução de perdas.
 
-Sou formada em **Ciência da Computação** e em **Publicidade e Propaganda**, combinando visão de negócio, comunicação e tecnologia para transformar dados em informações úteis para a tomada de decisão.
+Sou formada em **Ciência da Computação**, com experiência em auditoria, análise de dados e melhoria de processos, combinando visão de negócio, comunicação e tecnologia para transformar dados em informações úteis para a tomada de decisão.
 
 ## Sobre mim
 
