@@ -1,136 +1,152 @@
-<hr>
-Business Intelligence | Data Analytics | Python | SQL | Power BI | Excel | Auditoria e Controladoria
+# Hi, I'm Alessandra Lira 👋
 
-<hr>
+### Data Analyst | Business Intelligence | Python | SQL | Power BI
 
-# Olá, eu sou Alessandra Lira 👋
+🎓 **Computer Science Graduate**  
+📊 **MBA in Business Intelligence — In Progress**
 
+I'm a data professional with a background in **Computer Science** and professional experience using data to support decision-making, improve processes, automate repetitive tasks, and build analytical solutions.
 
-💡 Profissional de Auditoria, Business Intelligence e Análise de Dados, desenvolvendo soluções para transformar dados em informações estratégicas para tomada de decisão.
+My work combines **business knowledge and technology**, with a focus on transforming raw data into reliable and useful information.
 
-Sou formada em **Ciência da Computação**, com experiência em auditoria, análise de dados e melhoria de processos, combinando visão de negócio, comunicação e tecnologia para transformar dados em informações úteis para a tomada de decisão.
+Currently, I'm specializing in **Business Intelligence** and developing practical projects focused on Data Analytics, Data Quality, ETL, SQL, Python, automation, and data visualization.
 
-## Sobre mim
+---
 
-- Experiência com auditoria de vendas, produtos, estoque e processos
-- Desenvolvimento de dashboards e indicadores gerenciais
-- Automação de relatórios e rotinas operacionais
-- Análise de dados com Python, SQL, Power BI e Excel
-- Interesse em Business Intelligence, Controladoria e Engenharia de Dados
+## 👩‍💻 About Me
 
-## Tecnologias e ferramentas
+- 🎓 Bachelor's Degree in **Computer Science**
+- 📊 Currently pursuing an **MBA in Business Intelligence**
+- 💼 Professional experience with **Data Analysis, Business Intelligence and Process Automation**
+- 📈 Experience developing **KPIs, reports and dashboards**
+- 🐍 Using **Python** to automate data-related processes and reduce manual work
+- 🗃️ Working with **SQL and relational databases**
+- 📊 Experience with **Power BI and Excel** for analysis and decision support
+- 🔎 Interested in **Data Analytics, Business Intelligence, Data Quality and Analytics Engineering**
 
-### Dados e Business Intelligence
+---
+
+## 🛠️ Tech Stack
+
+### 📊 Data & Business Intelligence
+
+![Power BI](https://img.shields.io/badge/Power%20BI-000000?style=flat-square&logo=powerbi&logoColor=F2C811)
+![Excel](https://img.shields.io/badge/Excel-000000?style=flat-square&logo=microsoftexcel&logoColor=217346)
+![SQL](https://img.shields.io/badge/SQL-000000?style=flat-square&logo=postgresql&logoColor=4169E1)
+
+### 🐍 Programming & Data Processing
+
+![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=3776AB)
+![Pandas](https://img.shields.io/badge/Pandas-000000?style=flat-square&logo=pandas&logoColor=FFFFFF)
+
+### 🗄️ Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=4169E1)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=4479A1)
+![SQLite](https://img.shields.io/badge/SQLite-000000?style=flat-square&logo=sqlite&logoColor=003B57)
+
+### ⚙️ Tools
+
+![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=FFFFFF)
+![VS Code](https://img.shields.io/badge/VS%20Code-000000?style=flat-square&logo=visualstudiocode&logoColor=007ACC)
+
+---
+
+## 📊 Areas of Focus
+
+### Data Analytics
+
+- Python
+- SQL
+- Data Cleaning
+- Data Quality
+- Exploratory Data Analysis
+- Process Automation
+
+### Business Intelligence
 
 - Power BI
-- Excel
-- SQL
-- Python
-- Pandas
-- Looker Studio
+- Data Modeling
+- KPIs
+- Dashboards
+- ETL
+- Business Analysis
 
-### Bancos de dados
+---
 
-- PostgreSQL
-- Supabase
-- MySQL
-- SQLite
-- MongoDB
+## 🚀 Portfolio
 
-### Desenvolvimento
+I'm currently building a portfolio of practical data projects focused on solving real-world business problems.
 
-- Streamlit
-- Flask
-- Node.js
-- JavaScript
-- HTML
-- CSS
-- Git e GitHub
+The projects are being developed around areas such as:
 
-# 🚀 Projeto Principal
+- 🧹 **Data Cleaning & Validation**
+- 🔎 **Data Quality**
+- 🐍 **Python Automation**
+- 🔄 **ETL & Data Transformation**
+- 🗃️ **SQL & Database Analysis**
+- 📊 **Exploratory Data Analysis**
+- 📈 **Business Intelligence**
+- 📉 **Power BI Dashboards & KPIs**
 
-## Audit Analytics Platform
+Each project will be published after **development, testing and documentation** are completed.
 
-Projeto corporativo de Business Intelligence para análise de perdas no varejo.
+### 🔨 Projects coming soon...
 
-O projeto contempla:
+New projects will be added here as they are completed.
 
-✔ Levantamento de requisitos
+---
 
-✔ KPI Catalog
+## 🎓 Education
 
-✔ Data Dictionary
+### 🎓 Bachelor's Degree in Computer Science
 
-✔ Modelagem Dimensional
+**Completed — 2026**
 
-✔ SQL Server
+Strong technical foundation in programming, databases, software development, systems, and technology.
 
-✔ ETL
+### 📊 MBA in Business Intelligence
 
-✔ Power BI
+**In Progress**
 
-✔ Dashboards
+Focused on Data Analytics, Business Intelligence, Statistics, Data Modeling, analytical processes, and data-driven decision-making.
 
-Status:
+---
 
-🟢 Documentação concluída (NR-001 ao NR-006)
+## 💡 How I Approach Data Projects
 
-🟡 Implementação em andamento
-# Roadmap
+I believe a data project should go beyond writing code or creating a dashboard.
 
-✅ NR-001
+My approach focuses on the complete analytical process:
 
-✅ NR-002
+**Business Problem → Data Collection → Data Validation → Transformation → Analysis → Visualization → Insight → Decision**
 
-✅ NR-003
+The goal is to build solutions that are technically reliable and useful for the business.
 
-✅ NR-004
+---
 
-✅ NR-005
+## 📚 Currently Learning
 
-✅ NR-006
+- 🐍 Advanced Python for Data Analysis
+- 🗃️ SQL for Analytics
+- 📊 Statistics for Data Science
+- 🔎 Data Quality
+- 🔄 ETL & Data Pipelines
+- 🧩 Data Modeling
+- 📈 Power BI
+- 💼 Business Intelligence
 
-⬜ NR-007 ETL
+---
 
-⬜ SQL Server
+## 🤝 Let's Connect
 
-⬜ Procedures
+I'm interested in opportunities and projects involving:
 
-⬜ Views
+**Data Analytics • Business Intelligence • Python • SQL • Power BI • Data Automation**
 
-⬜ Power BI
+---
 
-⬜ Dashboard Executivo
+### Thanks for visiting my profile! 👋
 
-⬜ Dashboard Gerencial
-
-⬜ Dashboard Operacional
-
-⬜ Dashboard Auditoria
-
-## Atualmente me aprofundando em
-
-• Engenharia de Dados
-
-• Business Intelligence
-
-• Controladoria
-
-• SQL Server
-
-• Modelagem Dimensional
-
-• Power BI (DAX)
-
-• Python para Engenharia de Dados
-
-• Arquitetura de Data Warehouse
-
-## Vamos conversar?
-
-<div>
-<a href = "alle.lira9876@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="[https://www.linkedin.com/in/alessandra-lira-silva/](https://www.linkedin.com/in/alessandra-lira-oliveira/)" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-</div>
-
-
+> **Turning data into information, and information into better decisions.**
