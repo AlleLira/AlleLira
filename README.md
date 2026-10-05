@@ -26,7 +26,49 @@ Currently, I'm specializing in **Business Intelligence** and developing practica
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Portfolio
+
+I'm building a portfolio of practical data projects focused on solving real-world business problems through automation, data quality, analysis, and business intelligence.
+
+### 🐍 Automated Sales Data Pipeline
+
+[![View Project](https://img.shields.io/badge/View_Project-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AlleLira/automated-sales-data-pipeline)
+
+Python ETL pipeline developed to validate, clean, standardize, and consolidate sales spreadsheets received from multiple stores.
+
+The project simulates a business process in which sales files must be checked and consolidated before they can be used for analysis.
+
+#### 🔍 Main Features
+
+- Automated extraction of multiple Excel files
+- Schema and required-field validation
+- Duplicate sale ID identification
+- Quantity, price, category, and date validation
+- Category and text standardization
+- Automatic sales-total calculation
+- Separation of valid and rejected records
+- Processing summary and execution logs
+- Documentation available in Portuguese and English
+
+#### 📊 Demonstration Results
+
+- ✅ 3 files processed
+- ✅ 13 records analyzed
+- ✅ 9 valid records
+- ⚠️ 4 inconsistent records correctly rejected
+
+#### 🛠️ Technologies
+
+**Python • Pandas • OpenPyXL • ETL • Data Quality • Excel • Logging**
+
+🔗 [View the complete project on GitHub](https://github.com/AlleLira/automated-sales-data-pipeline)
+
+---
+
+### 🔨 More Projects in Development
+
+New projects involving **SQL, Exploratory Data Analysis, Power BI, Data Modeling, ETL, and Process Automation** will be added after development, testing, and documentation are completed.
+
 
 ### 📊 Data & Business Intelligence
 
